@@ -1,4 +1,6 @@
 # OpenKore-items.txt-Updater
+  A tool for updating items.txt for OpenKore.
+
 Usage:
 
        1.Use some Lua decompiler(e.g. luadec)to decompile the iteminfo.lub file into iteminfo.lua
